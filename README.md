@@ -27,10 +27,4 @@ In our program we decided to use a superclass of Platform. This is because we ha
  Lastly in the Game Class we created our timeline because the Game class is responsible for the game logic. Therefore it
  has the task to keep the game running until our Player falls off the screen.
 
-Known Bugs:
--N/A
-Hours Spent:
--15 Hours Total
-Debugging Collaborators:
--0 Debugging Collaborators who were classmates (3 total debugging TAs)
 
